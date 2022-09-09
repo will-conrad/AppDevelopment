@@ -3,7 +3,7 @@
 
  The code below prints a few short statements about what you have learned in this lesson. Open the console area and view the code's output.
  */
-print("I have learned the following:")
+print("I have learned the following:")iufoniufnirghnocqiugnoiuniug
 print("What features make Swift a modern and safe language")
 print("How to use the Swift REPL in Terminal")
 print("How to use playgrounds to make writing Swift fun and simple")
