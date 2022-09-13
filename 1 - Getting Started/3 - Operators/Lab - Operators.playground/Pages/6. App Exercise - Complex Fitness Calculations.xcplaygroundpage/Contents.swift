@@ -5,9 +5,9 @@
  
  If you completed the Fitness Calculations exercise, you calculated an average heart rate to display to the user. However, using proper order of operations you can do this in fewer steps. Create three separate heart rate constants, all of type `Double`, with values between 60 and 100. Then create a constant equal to the average heart rate. If you use correct order of operations you can do the heart calculation in one line.
  */
-let hrA = 65
-let hrB = 80
-let hrC = 96
+let hrA = 66
+let hrB = 82
+let hrC = 98
 let hrAvg = (hrA + hrB + hrC) / 3
 
 /*:
